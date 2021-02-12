@@ -1,0 +1,3 @@
+1. Hero small line that has relative and left and w-5/12 really meesses up with responsiveness
+
+Fixed  the above problem by writing media query
